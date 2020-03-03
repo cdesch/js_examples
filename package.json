@@ -1,0 +1,21 @@
+{
+  "name": "js_examples",
+  "version": "1.0.0",
+  "description": "JS Examples and Cheat Sheet",
+  "main": "index.js",
+  "author": "Chris Desch",
+  "license": "MIT",
+  "repository": {
+    "url": "https://github.com/cdesch/js_examples",
+    "type": "git"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.8.6",
+    "@babel/preset-env": "^7.8.6",
+    "babel-jest": "^25.1.0",
+    "jest": "^25.1.0"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}
