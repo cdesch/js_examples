@@ -1,4 +1,4 @@
-import { Rectangle } from "../classes";
+import { Rectangle } from "../src/classes";
 
 test('create rectangle object and get area', () => {
   const rect = new Rectangle(10, 10);

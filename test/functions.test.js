@@ -1,4 +1,4 @@
-import {sum, multiply, generatorFunction} from '../functions';
+import {sum, multiply, generatorFunction} from '../src/functions';
 
 test('multiply 1 * 2 to equal 2', () => {
   expect(multiply(1, 2)).toBe(2);
