@@ -17,5 +17,9 @@
   },
   "scripts": {
     "test": "jest"
+  },
+  "dependencies": {
+    "lodash": "^4.17.15",
+    "moment": "^2.27.0"
   }
 }
